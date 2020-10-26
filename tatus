@@ -1,0 +1,17 @@
+[33mcommit a0831f4132e0f9721bea11c7cd1397174fd81227[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Diarmuid O Connor <doconnor@wit.ie>
+Date:   Fri Sep 11 20:43:07 2020 +0100
+
+    Implemented and tested removeProductById
+
+[33mcommit a46fa1aaadfa0693aeaab251ac20a9fee5251f28[m
+Author: Diarmuid O Connor <doconnor@wit.ie>
+Date:   Fri Sep 11 17:15:18 2020 +0100
+
+    Tested findProductById
+
+[33mcommit 8eb8fdc92f6927d482ca7cd84363e74659eacb36[m
+Author: Diarmuid O Connor <doconnor@wit.ie>
+Date:   Fri Sep 11 11:55:42 2020 +0100
+
+    Initial project structure
